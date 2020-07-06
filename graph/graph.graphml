@@ -149,7 +149,7 @@ into /tmp or /dev/shm<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:La
       <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="200.0" x="286.0" y="502.0"/>
+          <y:Geometry height="30.0" width="200.0" x="286.0" y="658.928"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="193.556640625" x="3.2216796875" xml:space="preserve" y="-0.96875">2) download from &lt;ip&gt; &lt;port&gt;
@@ -162,7 +162,7 @@ into /tmp or /dev/shm<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:La
       <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="200.0" x="286.0" y="543.2319984436035"/>
+          <y:Geometry height="30.0" width="200.0" x="286.0" y="700.1599984436035"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="182.564453125" x="8.7177734375" xml:space="preserve" y="-0.96875">3) serve the http service to dl
@@ -311,7 +311,7 @@ into /tmp or /dev/shm<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="f
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="238.5" y="517.0"/>
+            <y:Point x="238.5" y="673.928"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -324,7 +324,7 @@ into /tmp or /dev/shm<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="f
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="238.5" y="558.2319984436035"/>
+            <y:Point x="238.5" y="715.1599984436035"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -376,8 +376,8 @@ python3 -m http.server 9090<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnab
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="525.5919999999999" y="558.2319984436035"/>
-            <y:Point x="525.5919999999999" y="517.0"/>
+            <y:Point x="525.5919999999999" y="715.1599984436035"/>
+            <y:Point x="525.5919999999999" y="673.928"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
