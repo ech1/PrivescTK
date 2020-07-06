@@ -1,5 +1,8 @@
 # PrivescToolkit
-image here
+
+![alt text](graph/graph.png)
+
+
 # Usage
 
 ```bash
